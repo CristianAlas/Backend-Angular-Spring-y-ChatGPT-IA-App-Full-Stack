@@ -1,4 +1,4 @@
-package ca.inventarios.modelo;
+package ca.inventarios.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.*;
